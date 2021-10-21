@@ -5,7 +5,7 @@
      de algoritmo de predição, gráficos interativos) foi realizada utilizando o Jupyter Notebook.
    
 ## 2 Pasta `DATA`:
-     Contém a base de dados extraída da fonte (https://archive.ics.uci.edu/ml/datasets/iris).
+     Contém a base de dados extraída da fonte (https://archive.ics.uci.edu/ml/datasets/iris). Para utilizar esta base de dados salva localmente basta "comentar" a base original e descomentar o código que aponta para a base local, já previamente preparada no Jupyter Notebook, item 1.
 
 ## 3 Pasta `DOCS`:
      Contém o vídeo demonstrando o Jupyter notebook 100% funcional.
